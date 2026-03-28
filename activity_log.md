@@ -5,3 +5,4 @@
 - [2026-03-28T22:52:14Z] style: apply consistent code formatting
 - [2026-03-28T12:44:25Z] refactor: simplify conditional logic
 - [2026-03-28T09:04:05Z] perf: optimize loop for better performance
+- [2026-03-28T13:24:10Z] chore: remove deprecated API calls
